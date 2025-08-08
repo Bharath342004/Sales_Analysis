@@ -10,10 +10,10 @@ This project analyzes sales data from a CSV file and generates:
 
 ## Project Structure
 SALES-ANALYSIS
- sales_analysis.py     # Main Python script
- sales.csv             # Input sales data file
- processed_sales.csv   # Output processed file (auto-generated after running script)
- README.md             # Project documentation
+ sales_analysis.py     
+ sales.csv            
+ processed_sales.csv   
+ README.md           
 
 ---
 
@@ -57,3 +57,4 @@ West    3500
 ## Notes
 - If your data does not contain a Month column, the monthly sales trend chart will be skipped.
 - Make sure sales.csv has correct column names: Region, Month (optional), Sales.
+
