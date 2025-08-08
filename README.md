@@ -9,12 +9,11 @@ This project analyzes sales data from a CSV file and generates:
 ---
 
 ## Project Structure
-sales-analysis/
-│
-├── sales_analysis.py     # Main Python script
-├── sales.csv             # Input sales data file
-├── processed_sales.csv   # Output processed file (auto-generated after running script)
-└── README.md             # Project documentation
+SALES-ANALYSIS
+ sales_analysis.py     # Main Python script
+ sales.csv             # Input sales data file
+ processed_sales.csv   # Output processed file (auto-generated after running script)
+ README.md             # Project documentation
 
 ---
 
